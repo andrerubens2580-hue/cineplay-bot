@@ -4,8 +4,8 @@ from pathlib import Path
 from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "COLE_SEU_TOKEN_AQUI"
-ADMIN_IDS = {123456789}
+BOT_TOKEN = "8395658659:AAH-FWm5sg1u9TbHm5rKq_sNF57m9WCeOKU"
+ADMIN_IDS = {8307440223}
 DB_PATH = Path("cineplay_store.db")
 
 MAIN_MENU = [
