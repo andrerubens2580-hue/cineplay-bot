@@ -3,7 +3,7 @@ import json
 import random
 from telebot.types import ReplyKeyboardMarkup
 
-TOKEN = "COLOQUE_SEU_TOKEN_AQUI"
+TOKEN = "8395658659:AAEu42j4yC6lzuFKZfvYS1CExhmvzy6rR-8"
 
 bot = telebot.TeleBot(TOKEN)
 
